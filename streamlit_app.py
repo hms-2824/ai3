@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
    
     labels[0] : {
        "texts": ["치킨은 우재가 좋아한다"],
-       "images": ["https://share.google/images/JbtF6ja0cVpZNAEyW"],
+       "images": ["https://lh5.googleusercontent.com/proxy/H1HER1r1h7fltF4VTr6ycdVV20DuwlYIQ0pupaZfQ1KxrrGQRhywti9NTrzHFGK-TCcmbeO36g78qFleeVT19jep0ZKAbojAZ2efVnF-ZraLHXE27OSWCf6LMhxOT_ptzA7_wanNodC5x1udZpDVwkYuHEXIPtMT3ckQMuXH"],
        "videos": ["https://youtube.com/shorts/b8WEvFdY7wc?si=bDZSO3SOP1fRLIDh"]
      },
 }
