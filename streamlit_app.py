@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[2] : {
        "texts": ["피자은 우재가 좋아한다"],
-       "images": ["https://www.google.com/imgres?q=%ED%94%BC%EC%9E%90&imgurl=https%3A%2F%2Fcdn.dominos.co.kr%2Fadmin%2Fupload%2Fgoods%2F20200311_x8StB1t3.jpg&imgrefurl=https%3A%2F%2Fweb.dominos.co.kr%2Fgoods%2Fdetail%3Fdsp_ctgr%3DC0104%26code_01%3DRPZ007SL&docid=HwzCutZ1jMyGDM&tbnid=lyVW1Bcb36QITM&vet=12ahUKEwiFnYCR8_eQAxWUQPUHHSWJA9IQM3oECBcQAA..i&w=750&h=750&hcb=2&ved=2ahUKEwiFnYCR8_eQAxWUQPUHHSWJA9IQM3oECBcQAA"],
+       "images": ["https://www.youngmanpizza.co.kr/upload/M_ori/6678cf42c5dd2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=44VRAyjJ9OM"]
      },
 
