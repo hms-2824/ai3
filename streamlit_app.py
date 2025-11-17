@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[2] : {
        "texts": ["피자은 우재가 좋아한다"],
-       "images": "https://share.google/images/Se7c5ArbSBOyEL5vY"],
+       "images": ["https://share.google/images/Se7c5ArbSBOyEL5vY"],
        "videos": ["https://share.google/iQN70lLQcQd6EDPMI"]
      },
 
