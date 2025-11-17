@@ -71,8 +71,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
    
     labels[0] : {
        "texts": ["짜장면은 우재가 좋아한다"],
-       "images": ["https://lh5.googleusercontent.com/proxy/H1HER1r1h7fltF4VTr6ycdVV20DuwlYIQ0pupaZfQ1KxrrGQRhywti9NTrzHFGK-TCcmbeO36g78qFleeVT19jep0ZKAbojAZ2efVnF-ZraLHXE27OSWCf6LMhxOT_ptzA7_wanNodC5x1udZpDVwkYuHEXIPtMT3ckQMuXH"],
-       "videos": ["https://youtube.com/shorts/b8WEvFdY7wc?si=bDZSO3SOP1fRLIDh"]
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6933865%3Fsrsltid%3DAfmBOoqLGEWKBj2bH-3LXHaiVO_c8up_Jf_iHr2qx5LSQ8TV9O4rOIxb&psig=AOvVaw13KX2bIdo-GFG8478bTkef&ust=1763424274543000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKijl8Dx95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://share.google/OmIcg6SCTmksQJqTh"]
      },
     
     labels[1] : {
@@ -80,6 +80,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://lh5.googleusercontent.com/proxy/H1HER1r1h7fltF4VTr6ycdVV20DuwlYIQ0pupaZfQ1KxrrGQRhywti9NTrzHFGK-TCcmbeO36g78qFleeVT19jep0ZKAbojAZ2efVnF-ZraLHXE27OSWCf6LMhxOT_ptzA7_wanNodC5x1udZpDVwkYuHEXIPtMT3ckQMuXH"],
        "videos": ["https://youtube.com/shorts/b8WEvFdY7wc?si=bDZSO3SOP1fRLIDh"]
      },
+
+    labels[2] : {
+       "texts": ["피자은 우재가 좋아한다"],
+       "images": "https://share.google/images/Se7c5ArbSBOyEL5vY"],
+       "videos": ["https://share.google/iQN70lLQcQd6EDPMI"]
+     },
+
 }
 
 # ======================
