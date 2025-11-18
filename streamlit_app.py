@@ -71,8 +71,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
    
     labels[0] : {
        "texts": ["짜장면은 우재가 좋아한다"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6933865%3Fsrsltid%3DAfmBOoqLGEWKBj2bH-3LXHaiVO_c8up_Jf_iHr2qx5LSQ8TV9O4rOIxb&psig=AOvVaw13KX2bIdo-GFG8478bTkef&ust=1763424274543000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKijl8Dx95ADFQAAAAAdAAAAABAE"],
-       "videos": ["https://share.google/OmIcg6SCTmksQJqTh"]
+       "images": ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"],
+       "videos": ["https://www.youtube.com/watch?v=fazFyTMRnOU"]
      },
     
     labels[1] : {
